@@ -1,5 +1,10 @@
 # 🏨 RoomEase - Smart Hotel Room Booking System
 
+An interactive hotel room reservation system with a **movie ticket-style UI**, optimized room booking logic, and smooth animations.  
+Built with **React + Material UI + Framer Motion**. 
+
+---
+
 ## 📌 Overview
 RoomEase is a hotel room reservation system that:
 
