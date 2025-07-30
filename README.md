@@ -59,26 +59,26 @@ npm run dev
 
 ---
 
-### 🚀 Usage
-
-1️⃣ Enter number of rooms (1-5)
-2️⃣ Click Book → Automatically assigns optimal rooms
-3️⃣ Single Click a room → Book instantly
-4️⃣ Double Click a booked room → Unbook it
-5️⃣ Click Random → Generate random occupancy
-6️⃣ Click Reset → Reset all bookings
+## 🚀 Usage
+1️⃣ Enter number of rooms (1-5)  
+2️⃣ Click **"Book"** → Automatically assigns optimal rooms  
+3️⃣ **Single Click** a room → Book instantly  
+4️⃣ **Double Click** a booked room → Unbook it  
+5️⃣ Click **"Random"** → Generate random occupancy  
+6️⃣ Click **"Reset"** → Reset all bookings  
 
 ---
 
-### 🎨 UI Highlights
-
-✅ Legend for Available / Booked / Last Booked
-✅ Snackbar alerts for all actions
-✅ Smooth animations using Framer Motion
-✅ Movie Ticket Style Layout (Floors left, Rooms right)
+## 🎨 UI Highlights  
+✅ Legend for **Available / Booked / Last Booked**  
+✅ **Snackbar alerts** for all actions  
+✅ **Smooth animations** using Framer Motion  
+✅ **Movie Ticket Style Layout** (Floors left, Rooms right)  
 
 ---
 
 ### 📜 License
 
 MIT License © 2025 - Created with ❤️ by Anmol Sangha
+
+---
